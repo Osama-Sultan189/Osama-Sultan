@@ -9,12 +9,15 @@
  ### 🏅 Achievements
  - 🥉 Accomplished Google Code Jam Qualification Round 2021
  - 🥉 Online ICPC qualification Round Attempted in 2022
- - 🥉
+ - 🥉 Recognized as Microsoft Technology Associates in Database Administrations
+ - 🥉 Recognized as Microsoft Technology Associates in Introduction to Python 
  
 ### 🛠️ Skills
 
 Programming Languages
  
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
+Web Languages
 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
