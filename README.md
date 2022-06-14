@@ -26,15 +26,15 @@ Technologies
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
-<!--## GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
-	<a href="https://github.com/laibakamal">
-		<img height="180em" src="https://github-readme-stats.vercel.app/api?username=laibakamal&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-		<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=laibakamal&layout=compact&langs_count=8&theme=algolia"/>
+	<a href="https://github.com/Osama-Sultan189">
+		<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Osama-Sultan189&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+		<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Osama-Sultan189&layout=compact&langs_count=8&theme=algolia"/>
 	</a>
-	<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=laibakamal&show_icons=true&locale=en&layout=demo&theme=algolia" />
-</p>-->
+	<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Osama-Sultan189&show_icons=true&locale=en&layout=demo&theme=algolia" />
+</p>
 ## Contribution Graph
 
 <a href="https://github.com/Osama-Sultan189"><img alt="Osama's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Osama-Sultan189&theme=react-dark&hide_border=true&area=true" /></a>
