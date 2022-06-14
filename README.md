@@ -26,7 +26,7 @@ Technologies
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
-## GitHub Analytics
+### GitHub Analytics
 
 <p align="center">
 	<a href="https://github.com/Osama-Sultan189">
@@ -35,7 +35,8 @@ Technologies
 	</a>
 	<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Osama-Sultan189&show_icons=true&locale=en&layout=demo&theme=algolia" />
 </p>
-## Contribution Graph
+
+### Contribution Graph
 
 <a href="https://github.com/Osama-Sultan189"><img alt="Osama's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Osama-Sultan189&theme=react-dark&hide_border=true&area=true" /></a>
 
