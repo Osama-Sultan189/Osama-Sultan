@@ -45,10 +45,6 @@ Technologies
 
 <a href="https://github.com/Osama-Sultan189"><img alt="Osama's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Osama-Sultan189&theme=react-dark&hide_border=true&area=true" /></a>
 
-# Github Metrics
-<p align="center">
-	<img width="625em" src="https://github.com/Osama-Sultan189/Osama-Sultan189/blob/master/github-metrics.svg" />
-</p>
 
 
 ## 🤝🏻 &nbsp;Connect with Me
