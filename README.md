@@ -45,6 +45,14 @@ Technologies
 
 <a href="https://github.com/Osama-Sultan189"><img alt="Osama's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Osama-Sultan189&theme=react-dark&hide_border=true&area=true" /></a>
 
+
+## 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/osama-sultan-7520721b6/"><img src="https://img.shields.io/badge/-Osama%20Sultan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:osamasultan189@gmail.com"><img src="https://img.shields.io/badge/-osamasultan189@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/osamasultan189"><img src="https://img.shields.io/badge/-@osamasultan189-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://facebook.com/osamasultan189"><img src="https://img.shields.io/badge/-@osamasultan189-1877F2?style=flat&logo=Facebook&logoColor=white"/></a></p>
 <br />
 <br />
 
