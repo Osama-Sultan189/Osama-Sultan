@@ -1,9 +1,9 @@
 # Hi Osama here! 👋
 ### 🚀 About Me
- - 👋 I’m Osama Sultan. I am Pursuing my Bachelors in Software Engineering and will graduate in 2023(IA).
+ - 👋 I am Pursuing my Bachelors in Software Engineering and will graduate in 2023(IA).
  - 👀 I’m interested in Programming, problem solving and database.
- - 🔭 I’m currently working on Web Development (C#) and React JS. I have a grip on C++.
- - 🌱 I’m currently on Full Stack Geo Spatial Development.
+ - 🔭 I’m currently working on Web Development and React JS. I have a grip on C++.
+ - 🌱 I’m currently working on Full Stack Geo Spatial Development.
  - 👯 I’m looking to collaborate on web Projects.
  - 💬 Ask me about anything!
 
@@ -14,6 +14,8 @@
  ### 🏅 Achievements
  - 🥉 Accomplished Google Code Jam Qualification Round 2021
  - 🥉 Online ICPC qualification Round Attempted in 2022
+ - 🥉 Online Softec finalists 2021
+ - 🥉 7/53 rank in Code Fest by GDSC (Programming Competition)
  - 🥉 Recognized as Microsoft Technology Associates in Database Administrations
  - 🥉 Recognized as Microsoft Technology Associates in Introduction to Python 
  
