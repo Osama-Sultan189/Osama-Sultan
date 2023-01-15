@@ -13,10 +13,10 @@
 	
  ### 🏅 Achievements
  - 🥉 Accomplished Google Code Jam Qualification Round 2021
- - 🥉 Online ICPC qualification Round Attempted in 2022
+ - 🥉 Online ICPC qualification Round Attempted in 2022 - Honourable
  - 🥉 Online ICPC qualification Round Attempted in 2023 - Ranked
  - 🥉 Online Softec finalists 2021
- - 🥉 CodinGuru 5.0 rank 6 in final
+ - 🥉 CodinGuru 5.0 Rank 6 in final
  - 🥉 7/53 rank in Code Fest by GDSC (Programming Competition)
  - 🥉 Recognized as Microsoft Technology Associates in Database Administrations
  - 🥉 Recognized as Microsoft Technology Associates in Introduction to Python 
