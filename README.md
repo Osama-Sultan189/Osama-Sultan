@@ -2,8 +2,7 @@
 ### 🚀 About Me
  - 👋 I am Pursuing my Bachelors in Software Engineering and will graduate in 2023(IA).
  - 👀 I’m interested in Programming, problem solving and database.
- - 🔭 I’m currently working on Web Development and React JS. I have a grip on C++.
- - 🌱 I’m currently working on Full Stack Geo Spatial Development.
+ - 🔭 I’m currently working on Web Development project in React JS and Node using MySQL as DB.
  - 👯 I’m looking to collaborate on web Projects.
  - 💬 Ask me about anything!
 
