@@ -2,6 +2,7 @@
 ### 🚀 Student | Passionate Learner | Creating a World of Code
  - 👀 Interested in Problem solving.
  - 🔭 Working on Web Development and Machine Learning Projects.
+ <br>
 	<a  align="center">
 ![](https://komarev.com/ghpvc/?username=Osama-Sultan189&color=blueviolet&label=Profile+Views)
 	</a>
