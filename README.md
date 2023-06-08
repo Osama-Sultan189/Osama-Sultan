@@ -1,22 +1,12 @@
 # Hi Osama here! 👋
-### 🚀 About Me
- - 👋 I am Pursuing my Bachelors in Software Engineering and will graduate in 2023(IA).
- - 👀 I’m interested in Programming, problem solving and database.
- - 🔭 I’m currently working on Web Development project in React JS and Node using MySQL as DB.
- - 👯 I’m looking to collaborate on web Projects.
- - 💬 Ask me about anything!
-
+### 🚀 Student | Passionate Learner | Creating a World of Code
+ - 👀 Interested in Problem solving.
+ - 🔭 Working on Web Development and Machine Learning Projects.
 	<a  align="center">
 ![](https://komarev.com/ghpvc/?username=Osama-Sultan189&color=blueviolet&label=Profile+Views)
 	</a>
-	
+ ### 🚀 Analytical Mindset | Crafting Insights Through Code	
  ### 🏅 Achievements
- - 🥉 Accomplished Google Code Jam Qualification Round 2021
- - 🥉 Online ICPC qualification Round Attempted in 2022 - Honourable
- - 🥉 Online ICPC qualification Round Attempted in 2023 - Ranked
- - 🥉 Online Softec finalists 2021
- - 🥉 CodinGuru 5.0 Rank 6 in final
- - 🥉 7/53 rank in Code Fest by GDSC (Programming Competition)
  - 🥉 Recognized as Microsoft Technology Associates in Database Administrations
  - 🥉 Recognized as Microsoft Technology Associates in Introduction to Python 
  
