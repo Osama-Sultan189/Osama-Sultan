@@ -45,7 +45,7 @@
 
 <a href="https://github.com/Osama-Sultan189"><img alt="Osama's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Osama-Sultan189&theme=react-dark&hide_border=true&area=true" /></a>
 
-
+[![Osama Sultan's Contribution](https://github-readme-stats.vercel.app/api?username=Osama-Sultan189)](https://github.com/Osama-Sultan189)
 
 ## 🤝🏻 &nbsp;Connect with Me
 
