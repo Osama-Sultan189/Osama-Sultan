@@ -41,11 +41,7 @@
 	<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Osama-Sultan189&show_icons=true&locale=en&layout=demo&theme=algolia" />
 </p>
 
-### Contribution Graph
 
-<a href="https://github.com/Osama-Sultan189"><img alt="Osama's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Osama-Sultan189&theme=react-dark&hide_border=true&area=true" /></a>
-
-[![Osama Sultan's Contribution](https://github-readme-stats.vercel.app/api?username=Osama-Sultan189)](https://github.com/Osama-Sultan189)
 
 ## 🤝🏻 &nbsp;Connect with Me
 
