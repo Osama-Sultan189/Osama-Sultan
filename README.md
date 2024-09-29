@@ -1,6 +1,6 @@
 
 # Hi Osama here! 👋  
-### 🚀 Developer | Lifelong Learner | Creating Solutions Through Code  
+### 🚀 Full Stack Software Engineer
 - 👀 Passionate about problem-solving and continuous improvement.  
 - 🔭 Focused on Web Development and Machine Learning projects.
 
